@@ -12,9 +12,8 @@
             "email": "developement@planet-itservices.com"
         }
     ],
-    "version" : "dev-master",
     "source": {
-        "url": "git://github.com/weaverryan/derp-dangerzone.git",
+        "url": "git@github.com:laszlototh82/testDB.git",
         "type": "git",
         "reference": "master"
     },
