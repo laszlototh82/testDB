@@ -684,7 +684,3 @@ msg;
         }
     }
 }
-
-// initialise and connect
-//require(__DIR__.'/config.php');
-
