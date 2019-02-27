@@ -3,8 +3,7 @@
     "name": "PITS/dbClass",
     "description": "just a test",
     "require": {
-        "php": ">=5.6",
-        "monolog/monolog": "1.23.*"
+        "php": ">=5.6"
     },
     "authors": [
         {
